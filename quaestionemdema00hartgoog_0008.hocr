@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionemdema00hartgoog_0008.png"; bbox 0 0 2864 4996; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 628 2037 684 2103">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 628 2037 684 2103">
+     <span class='ocr_line' id='line_1_1' title="bbox 628 2037 684 2103; baseline -0.018 0"><span class='ocrx_word' id='word_1_1' title='bbox 628 2037 684 2103; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 173 2294 1136 2400">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 173 2294 1136 2400">
+     <span class='ocr_line' id='line_1_2' title="bbox 173 2294 1136 2400; baseline 0.001 -4"><span class='ocrx_word' id='word_1_2' title='bbox 173 2295 491 2399; x_wconf 71' lang='lat' dir='ltr'><strong>MARCIONE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 533 2294 761 2398; x_wconf 72' lang='lat' dir='ltr'><strong>wem</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 801 2295 1136 2400; x_wconf 72' lang='lat' dir='ltr'><strong>EUANGELII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 220 2560 1097 2714">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 220 2560 1097 2714">
+     <span class='ocr_line' id='line_1_3' title="bbox 220 2560 1097 2714; baseline 0.003 -53"><span class='ocrx_word' id='word_1_5' title='bbox 220 2709 222 2714; x_wconf 6' lang='grc' dir='ltr'><strong>ι</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 397 2560 908 2663; x_wconf 60' lang='lat' dir='ltr'><strong>mammona</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 979 2567 982 2574; x_wconf 93' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1095 2657 1097 2664; x_wconf 84' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1436 4996">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1436 4996">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1436 4996; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1436 4996; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
